@@ -7,7 +7,7 @@
     "run:create": "node dist/create-jwks.js",
     "run:example": "node dist/example.js"
   },
-  "author": "aminevsky",
+  "author": "Aminevsky",
   "license": "MIT",
   "dependencies": {
     "@types/jsonwebtoken": "^8.5.1",
